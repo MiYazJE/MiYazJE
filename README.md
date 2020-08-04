@@ -7,3 +7,6 @@
     <img src="https://img.shields.io/badge/Back End-Nodejs-f55247"/>
   </p>
 </p><br/><br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiYazJE&layout=compact)](https://github.com/MiYazJE/github-readme-stats)
+
