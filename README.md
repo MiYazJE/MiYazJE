@@ -1,7 +1,8 @@
 ### Hey! My name is Rubén and I love programming! 😆 💻 😆  
 
-- I am a passionate of software development and sometimes with algorithms.
-- I have completed a 2 years course of web development called <strong>FP DAW</strong> 💻
+- Node js, React js and Redux ✅
+- I am a passionate of software development and sometimes with algorithms 💻
+- I have completed a 2 years course of web development called <strong>FP DAW</strong> 🎓 
 
 ### Connect with me:
 
