@@ -8,7 +8,6 @@ I also like to play videogames, but especially chess ♟️.
 [![Linkedin: Rubén Saiz](https://img.shields.io/badge/-Rubén%20Saiz-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rub%C3%A9n-saiz-serrano-08b470177/)](https://www.linkedin.com/in/rub%C3%A9n-saiz-serrano-08b470177/)
 [![Website: Rubén Saiz](https://img.shields.io/badge/-Personal%20Website-blue?style=for-the-badge&color=22487B&link=https://miyazje.github.io/)](https://miyazje.github.io/)
 
-<br />
 <img src="https://github-readme-stats.vercel.app/api?username=MiYazJE&show_icons=true&theme=radical"/>
 <p>
   <img src="http://views.whatilearened.today/views/github/MiYazJE/views.svg"/>
