@@ -1,14 +1,12 @@
-### Hey! My name is Rubén and I love programming! 😆 💻 😆  
+### !Hello! I'm Rubén <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+I am a Full Stack Developer, currently working from Spain at <a href="https://allfunds.com/">Allfunds</a>.
 
-- Node js, React js and Redux ✅
-- I am a passionate of software development and sometimes with algorithms 💻
-- I have completed a 2 years course of web development called <strong>FP DAW</strong> 🎓 
+I am a passionate about new technologies 👨‍💻. I will be always learning something new ⏩ .
 
-### Connect with me:
+I also like to play videogames, but especially chess ♟️.
 
-
-- 🔗 <a href="http://miyazje.github.io/">Personal website</a>
-- <img src="https://img.icons8.com/android/24/000000/linkedin.png"/> <a href="https://www.linkedin.com/in/rub%C3%A9n-saiz-serrano-08b470177/"> Linkedin</a>
+[![Linkedin: Rubén Saiz](https://img.shields.io/badge/-Rubén%20Saiz-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rub%C3%A9n-saiz-serrano-08b470177/)]()
+[![Website: Rubén Saiz](https://img.shields.io/badge/-Personal%20Website-blue?style=for-the-badge&color=22487B&link=https://miyazje.github.io/)]()
 
 <br />
 <div align="center">
